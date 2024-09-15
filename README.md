@@ -9,4 +9,4 @@ Python and Selenium need to be installed
 pip install selenium
 ```
 
-You can check full description of this code in https://www.kushalstudy.com/blog/how-to-build-linkedin-scraper-using-python-and-selenium/
+You can check full description of this code in [https://www.kushalstudy.com/blog/how-to-build-linkedin-scraper-using-python-and-selenium/](https://www.vpktechnologies.com/blog/how-to-build-linkedin-scraper-using-python-and-selenium/)
